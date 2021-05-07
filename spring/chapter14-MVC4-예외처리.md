@@ -4,7 +4,7 @@
 - 예외가 발생할 것을 대비하여 미리 예측해 이를 소스상에서 제어하고 처리하도록 만드는 것이 예외 처리이다.
 - 예외에는 일반예외(Exception)와 실행예외(RuntimeException)가 있다.
 
-![예외 종류](/img/exception-type.png)
+![예외 종류](/img/spring/exception-type.png)
 
 ### 1. 일반 예외 (Exception, Checked Exception)
 
