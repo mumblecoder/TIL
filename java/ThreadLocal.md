@@ -24,6 +24,6 @@
 4. remove() 메서드를 이용해서 현재 쓰레드의 로컬 변수 값을 삭제한다.
 
 
-###출처 
+### 출처 
 - [ThreadLocal 사용법과 활용](https://javacan.tistory.com/entry/ThreadLocalUsage)
 - [ThreadLocal](https://getinterviewinfo.wordpress.com/2014/09/04/thread-local/)
